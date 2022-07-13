@@ -1,6 +1,6 @@
-# app_dadoos
+# Dadoos App
 
-A new Flutter project.
+A new Flutter project that when you click on the dice they change the number.
 
 ## Getting Started
 
